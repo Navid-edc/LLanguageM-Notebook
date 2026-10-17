@@ -1,0 +1,13 @@
+# secrets
+.env
+*.env
+
+# OS / editor
+.DS_Store
+__MACOSX/
+.ipynb_checkpoints/
+__pycache__/
+
+# local models
+models/
+*.gguf
